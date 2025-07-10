@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a passionate Data Scientist and Google Cloud Innovator with experience in Machine Learning, Artificial Intelligence, and Full Stack Development. My technical background involves having taken Harvard's famous CS50 course, which has given me great problem-solving skills in computer science.<br><br>With Database Management, Cloud Computing (Google Cloud), I thrive on the intersection of data, innovation, and scalable solutions. With a background in Marketing, I also have a different mindset, allowing me to connect the technical and business sides of things.<br><br>A seeker of lifelong learning, I am continuously acquiring knowledge about the newest developments in AI, cloud computing, and quantum computing to make informed, impactful decisions. Let's collaborate and shape the future of tech together!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-bhardwaj-94498a312) 
 
