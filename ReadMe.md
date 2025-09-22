@@ -9,7 +9,7 @@ I am a passionate Data Scientist and Google Cloud Innovator with experience in M
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kartik1446&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kartik1446&theme=dark&hide_border=false)<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kartik1446&theme=dark&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kartik1446&theme=dark&utcOffset=5.5" /><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik1446&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
